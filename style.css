@@ -1,7 +1,9 @@
-#bowling {
-    text-align: center;
-    font-size: 500%;
-}
+
 .navbar {
     background-color: #064c2b;
+}
+.center {
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
