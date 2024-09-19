@@ -21,4 +21,8 @@ iframe {
 
 .number {
     color: white;
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
