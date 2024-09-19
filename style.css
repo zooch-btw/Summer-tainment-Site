@@ -18,3 +18,7 @@ iframe {
 #scores {
     height: 50%;
 }
+
+.number {
+    color: white;
+}
