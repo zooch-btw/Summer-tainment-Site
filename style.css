@@ -15,8 +15,14 @@ iframe {
     margin-left: auto;
     margin-right: auto;
 }
-#scores_1 {
-    height: 50%;
+.scores_1 {
+    
+    background: url(imgs/bowlingscores\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    height: 200px;
+    width: 500px;
 }
 
 .number {
@@ -29,10 +35,19 @@ iframe {
 .foot {
     min-height: 100vh 
 }
-#scores_2 {
-    width: 25%;
-    height: 100%;
+.scores_2 {
+    background: url(imgs/bowiling\ scores\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    height: 200px;
+    width: 500px;
 }
-#scores_3 {
-    padding-top: 5%;
+.scores_3 {
+    background: url(imgs/bowling\ scores\ 3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    height: 200px;
+    width: 700px;
 }
