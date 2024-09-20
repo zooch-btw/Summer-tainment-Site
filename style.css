@@ -15,7 +15,7 @@ iframe {
     margin-left: auto;
     margin-right: auto;
 }
-#scores {
+#scores_1 {
     height: 50%;
 }
 
@@ -29,7 +29,7 @@ iframe {
 .foot {
     min-height: 100vh 
 }
-#scores2 {
+#scores_2 {
     width: 25%;
     height: 100%;
 }
