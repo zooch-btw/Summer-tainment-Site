@@ -38,16 +38,64 @@ iframe {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center, center;
-    height: 200px;
-    width: 500px;
+    height: 150px;
+    width: 450px;
 }
 .scores_3 {
     background: url(imgs/bowling\ scores\ 3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center, center;
-    height: 200px;
-    width: 700px;
+    height: 150px;
+    width: 550px;
+}
+.scores_4 {
+    background: url(imgs/bowiling\ scores\ 4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    height: 150px;
+    width: 550px;
+}
+.scores_5 {
+    background: url(imgs/bowling\ scores\ 5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    height: 150px;
+    width: 550px;
+}
+.scores_6 {
+    background: url(imgs/bowling\ scores\ 6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    height: 150px;
+    width: 550px;
+}
+.scores_7 {
+    background: url(imgs/bowling\ scores\ 7.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    height: 150px;
+    width: 550px;
+}
+.scores_8 {
+    background: url(imgs/bowling\ scores\ 8.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    height: 150px;
+    width: 550px;
+}
+.scores_9 {
+    background: url(imgs/bowling\ scores\ 9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    height: 150px;
+    width: 550px;
 }
 
 .scores_4 {
